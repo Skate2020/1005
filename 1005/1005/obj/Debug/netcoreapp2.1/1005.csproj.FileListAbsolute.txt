@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\bin\Debug\netcoreapp2.1\1005.deps.json
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\bin\Debug\netcoreapp2.1\1005.runtimeconfig.json
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\bin\Debug\netcoreapp2.1\1005.runtimeconfig.dev.json
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\bin\Debug\netcoreapp2.1\1005.dll
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\bin\Debug\netcoreapp2.1\1005.pdb
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\obj\Debug\netcoreapp2.1\1005.csprojAssemblyReference.cache
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\obj\Debug\netcoreapp2.1\1005.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\obj\Debug\netcoreapp2.1\1005.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\obj\Debug\netcoreapp2.1\1005.AssemblyInfo.cs
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\obj\Debug\netcoreapp2.1\1005.dll
+C:\Users\user\Desktop\軟體工程\1005\1005\1005\obj\Debug\netcoreapp2.1\1005.pdb
